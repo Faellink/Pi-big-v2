@@ -422,6 +422,11 @@ MonoBehaviour:
   _mouseSensitivity: 1
   _debugHitPointTransform: {fileID: 1936505923}
   _hookshotTransform: {fileID: 964063773}
+  _hookshotThrowSpeed: 500
+  _jumpSpeed: 30
+  _jumpForce: 3
+  _gravityDownForce: -60
+  _moveSpeed: 20
 --- !u!143 &1464410563
 CharacterController:
   m_ObjectHideFlags: 0
